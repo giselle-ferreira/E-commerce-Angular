@@ -8,7 +8,7 @@
 <br>
 
 > ## About
-> E-commerce page built with studies purpose. I created the design template and developed in Angular 13 and Bootstrap 5. The main purpose was to practice the Angular architecture, and to implement the shopping cart, which I found extremely fullfilling to do.
+> E-commerce page built with studies purpose. I created the template design and developed in Angular 13 and Bootstrap 5. The main purpose was to practice the Angular architecture, and to implement the shopping cart, which I found extremely fullfilling to do.
 
 <br>
 <br>
