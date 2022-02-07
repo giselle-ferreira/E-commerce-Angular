@@ -1,27 +1,41 @@
-# ECommerce
+<p align="center">
+<img  src="https://i.postimg.cc/YSrhdyQC/image.png" width="1000"/>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+<h1 align="center">E-Commerce Page</h1>
 
-## Development server
+<br>
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+> ## About
+> E-commerce page built with studies purpose. I created the design template and developed in Angular 13 and Bootstrap 5. The main purpose was to practice the Angular architecture, and to implement the shopping cart, which I found extremely fullfilling to do.
 
-## Code scaffolding
+<br>
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> ## Technologies 🧰
 
-## Build
+<p>
+<img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" align="left" alt="git" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" align="left" alt="git" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" align="left" alt="git" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="27"/> 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  
+</p>  
 
-## Running unit tests
+<br> 
+<br>
+<br>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> ## Layout 💻
 
-## Running end-to-end tests
+<img src="https://github.com/giselle-ferreira/E-commerce-Angular/blob/main/src/assets/gif/e-commerce.gif" width="900" />
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<br>
+<br>
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
